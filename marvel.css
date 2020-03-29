@@ -1,0 +1,65 @@
+body {
+    background-color: lightblue;
+  }
+.myCanvas1{
+    position: absolute;
+    left: 0px;
+    top: 0px;   
+}
+.myCanvas2{
+    position: absolute;
+    left: 150px;
+    top: 0px;   
+}
+.myCanvas3{
+    position: absolute;
+    left: 300px;
+    top: 0px;   
+}
+.myCanvas4{
+    position: absolute;
+    left: 450px;
+    top: 0px;   
+}
+.myCanvas21{
+    position: absolute;
+    left: 0px;
+    top: 150px;   
+
+}
+.myCanvas22{
+    position: absolute;
+    left: 450px;
+    top: 150px;   
+}
+.myCanvas31{
+    position: absolute;
+    left: 0px;
+    top: 300px;   
+}
+.myCanvas32{
+    position: absolute;
+    left: 450px;
+    top: 300px;   
+
+}
+.myCanvas41{
+    position: absolute;
+    left: 0px;
+    top: 450px;   
+}
+.myCanvas42{
+    position: absolute;
+    left: 150px;
+    top: 450px;   
+}
+.myCanvas43{
+    position: absolute;
+    left: 300px;
+    top: 450px;   
+}
+.myCanvas44{
+    position: absolute;
+    left: 450px;
+    top: 450px;   
+}
