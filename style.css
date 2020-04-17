@@ -1,0 +1,11 @@
+#dice {
+    position: fixed;
+    top: 220px;
+    left: 160px;
+}
+
+#num {
+    position: fixed;
+    top: 190px;
+    left: 200px;
+}
